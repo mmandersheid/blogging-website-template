@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Getting you there soon',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://techipedia.vercel.app,',
+  siteUrl: 'https://shortvoyage1.vercel.app/,',
   siteRepo: 'https://github.com/mmandersheid/shortvoyage1',
   siteLogo: '/icons/maskable.png',
   image: '/static/images/me.jpg',
