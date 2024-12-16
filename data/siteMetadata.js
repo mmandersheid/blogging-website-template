@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Techipedia',
-  author: 'Kamal Kashyap',
-  headerTitle: 'techipedia',
-  description: 'best place to learn trendy tech and understanding concepts',
+  title: 'Short Voyage',
+  author: 'Matt Mandersheid',
+  headerTitle: 'short voyage',
+  description: 'Getting you there soon',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://techipedia.vercel.app,',
-  siteRepo: 'https://github.com/thekamalkashyap/blogging-website-template',
+  siteRepo: 'https://github.com/mmandersheid/shortvoyage1',
   siteLogo: '/icons/maskable.png',
   image: '/static/images/me.jpg',
   email: 'iamkamalkumar@proton.me',
